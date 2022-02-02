@@ -19,5 +19,8 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidreza-khushab&hide=TeX&layout=compact)
 
+
+<a href="https://www.linkedin.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
