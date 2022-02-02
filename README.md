@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-<-- **Hamidreza-khushab/Hamidreza-Khushab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
