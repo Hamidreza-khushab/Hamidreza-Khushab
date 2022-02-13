@@ -22,4 +22,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidreza-khushab&hide=TeX&layout=compact)
 
 
-<a href="https://www.linkedin.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/feed/?trk=DACH-SEM_google-adwords_brand-ghp" /></a>
