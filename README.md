@@ -22,4 +22,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidreza-khushab&hide=TeX&layout=compact)
 
 
-<a href="https://www.linkedin.com/feed/?trk=DACH-SEM_google-adwords_brand-ghp" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/feed/?trk=DACH-SEM_google-adwords_brand-ghp" /></a>
+<a href="https://www.linkedin.com/in/hamidreza-khushab-318764231/" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/feed/?trk=DACH-SEM_google-adwords_brand-ghp" /></a>
