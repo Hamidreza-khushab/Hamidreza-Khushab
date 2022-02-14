@@ -2,7 +2,8 @@
 <div align='center' ><h1> hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <h1>
 <div>
 
-<div align='center' ><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" /><div>
+![alt text](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"Testbild""Käsekuchen") 
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
