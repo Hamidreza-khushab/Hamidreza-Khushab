@@ -7,6 +7,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=Strapi)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vuejs)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next)
