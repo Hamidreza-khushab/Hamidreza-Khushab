@@ -9,7 +9,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=Strapi)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vuejs)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
