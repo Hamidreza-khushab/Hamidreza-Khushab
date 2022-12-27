@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
- <img alt="Tailwindcss" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Ftailwindcss%2Ftailwindcss-ar21.png&imgrefurl=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Ftailwindcss%2Findex.html&tbnid=OHAcZmx68lu7NM&vet=12ahUKEwiK3Zqy0Zr8AhWIVaQEHQseBlwQMygCegUIARC0AQ..i&docid=E3TpicGO2iDgUM&w=1200&h=600&q=tailwindcss%20logo&ved=2ahUKEwiK3Zqy0Zr8AhWIVaQEHQseBlwQMygCegUIARC0AQ"/>
+ <img alt="Tailwindcss" src="img.shields.io/badge/-tailwindcss-1572B6?style=flat-square&logo=css3"/>
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=plastic&logo=material-UI)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
