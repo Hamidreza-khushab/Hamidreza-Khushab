@@ -2,8 +2,6 @@
 <div align='center' ><h1> hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <h1>
 <div>
 
-![alt text](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"Testbild""Käsekuchen") 
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript)
