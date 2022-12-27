@@ -26,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitLab)
 ![Pwa](https://img.shields.io/badge/-Pwa-181717?style=flat-square&logo=Pwa)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=Docker)
 
 
 
