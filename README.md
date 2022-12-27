@@ -20,6 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-563D7C?style=flat-square&logo=Tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sacc-black?style=flat-square&logo=Sass)
+![React-bootstrap](https://img.shields.io/badge/-React-bootstrap-0081CB?style=plastic&logo=React-bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=plastic&logo=material-UI)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
