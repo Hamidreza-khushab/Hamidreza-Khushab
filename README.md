@@ -21,10 +21,12 @@
 ![Reactbootstrap](https://img.shields.io/badge/-Reactbootstrap-0081CB?style=plastic&logo=Reactbootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=plastic&logo=material-UI)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
- ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
+![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitLab)
+![Pwa](https://img.shields.io/badge/-Pwa-181717?style=flat-square&logo=Pwa)
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&count_private=true&show_icons=true&include_all_commits=true)
