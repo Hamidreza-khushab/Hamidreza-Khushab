@@ -7,6 +7,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=Strapi)
 ![Directus](https://img.shields.io/badge/-Directus-black?style=flat-square&logo=Directus)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -19,8 +21,6 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-563D7C?style=flat-square&logo=Tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sacc-black?style=flat-square&logo=Sass)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=plastic&logo=material-UI)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
