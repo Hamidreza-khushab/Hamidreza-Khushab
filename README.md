@@ -18,7 +18,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-563D7C?style=flat-square&logo=Tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sacc-black?style=flat-square&logo=Sass)
-![React Bootstrap](https://img.shields.io/badge/-React Bootstrap-0081CB?style=plastic&logo=React Bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=plastic&logo=material-UI)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
