@@ -29,9 +29,6 @@
 ![Twig](https://img.shields.io/badge/-Twig-181717?style=flat-square&logo=Twig)
  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&count_private=true&show_icons=true&include_all_commits=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidreza-khushab&hide=TeX&layout=compact)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-khushab-318764231/)
  
