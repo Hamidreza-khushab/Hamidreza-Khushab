@@ -25,7 +25,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitLab)
 ![Pwa](https://img.shields.io/badge/-Pwa-181717?style=flat-square&logo=Pwa)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=Docker)
-![sendinblue](https://img.shields.io/badge/-sendinblue-181717?style=flat-square&logo=sendinblue)
+![Sendinblue](https://img.shields.io/badge/-Sendinblue-181717?style=flat-square&logo=Sendinblue)
 ![Twig](https://img.shields.io/badge/-Twig-181717?style=flat-square&logo=Twig)
  
 
