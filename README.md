@@ -28,11 +28,9 @@
 ![Sendinblue](https://img.shields.io/badge/-Sendinblue-181717?style=flat-square&logo=Sendinblue)
 ![Twig](https://img.shields.io/badge/-Twig-181717?style=flat-square&logo=Twig)
  
-## 📊 My Github Stats
 <p align="center">
   <br/>
-![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&theme=buefy=true)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-khushab-318764231/)
+[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-khushab-318764231/)
  
  
               
