@@ -31,7 +31,7 @@
 ## 📊 My Github Stats
 <p align="center">
   <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&theme=buefy=true)
+![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&theme=buefy=true)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-khushab-318764231/)
  
  
