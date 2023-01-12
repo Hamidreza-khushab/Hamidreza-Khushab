@@ -28,9 +28,7 @@
 ![Sendinblue](https://img.shields.io/badge/-Sendinblue-181717?style=flat-square&logo=Sendinblue)
 ![Twig](https://img.shields.io/badge/-Twig-181717?style=flat-square&logo=Twig)
  
-<p align="center">
-  <br/>
-[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-khushab-318764231/)
+
  
  
               
