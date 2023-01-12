@@ -31,8 +31,8 @@
 ## 📊 My Github Stats
 <p align="center">
   <br/>
-    <a href="https://github.com/mkisecok/github-readme-stats"><img alt="hamid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=060A0CD0" /></a>
-  <a href="https://github.com/Hamidreza-khushab/github-readme-stats"><img alt="Hamidreza khushab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidreza-khushab&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=060A0CD0" /></a>
+<a href="https://github.com/mkisecok/github-readme-stats"><img alt="hamid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=060A0CD0" /></a>
+<a href="https://github.com/Hamidreza-khushab/github-readme-stats"><img alt="Hamidreza-khushab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidreza-khushab&langs_count=8&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=060A0CD0" /></a>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-khushab-318764231/)
  
