@@ -31,7 +31,7 @@
 ## 📊 My Github Stats
 <p align="center">
   <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Hamidreza-khushab=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Hamidreza-khushab=anuraghazra&theme=gruvbox)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-khushab-318764231/)
  
