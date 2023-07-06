@@ -29,8 +29,7 @@
  
 ## 📊 My Github Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamidreza-khushab&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-</p> 
+
 <br/> 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidreza-khushab&theme=react&line_height=27&layout=compact" />
