@@ -9,6 +9,7 @@
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-c7b198?style=plastic&logo=ExpressJS)
 ![fastapi](https://img.shields.io/badge/-fasiapi-c7b198?style=plastic&logo=fastapi)
 ![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=Strapi)
+![django](https://img.shields.io/badge/-django-black?style=flat-square&logo=django)
 ![Directus](https://img.shields.io/badge/-Directus-black?style=flat-square&logo=Directus)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
