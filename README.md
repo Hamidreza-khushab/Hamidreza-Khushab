@@ -1,4 +1,10 @@
+🎮 Full Stack Developer who sees frontend as a game and backend as the perfect partner for great design.
 
+💡 Creating seamless, enjoyable user experiences is my passion.
+
+💰 I aim high because happiness comes from a balance of travel, work, and life!
+
+Let’s connect if you're looking for quality and a bit of fun in development! 😊
 <div align='center' ><h1> hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <h1>
 <div>
 
