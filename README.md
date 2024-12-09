@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Hamidreza Khushab
 
 ## 🚀 About Me
-🎮 Full Stack Developer who sees frontend as a game and backend as the perfect partner for great design.
 
 💡 Creating seamless, enjoyable user experiences is my passion.
 
