@@ -26,6 +26,7 @@ Letâ€™s connect if you're looking for quality and a bit of fun in development! ð
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=Nuxt.js)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=Flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-563D7C?style=flat-square&logo=Tailwindcss)
