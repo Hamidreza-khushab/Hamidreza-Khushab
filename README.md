@@ -18,7 +18,7 @@ Letâ€™s connect if you're looking for quality and a bit of fun in development! ð
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
